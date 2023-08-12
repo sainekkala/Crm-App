@@ -1,0 +1,12 @@
+.user-container {
+    height: 100% !important;
+}
+.Aform-div {
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+   /* height: 641px; */
+}
+.form-control {
+  padding: 5px;
+}

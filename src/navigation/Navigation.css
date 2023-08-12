@@ -1,0 +1,24 @@
+.sidebar .nav {
+  padding: 0px !important;
+}
+
+.sidebar ul li a:hover {
+    background-color:#E9204F4D;
+    
+}
+
+
+.sidebar {
+  background-color: #252C48;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.head-h1 {
+  color: #FFFFFF;
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+.head-span {
+  color: #E9204F;
+}

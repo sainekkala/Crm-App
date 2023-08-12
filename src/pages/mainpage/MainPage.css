@@ -1,3 +1,5 @@
-/* body {
+body {
     background: #1B203A 0% 0% no-repeat padding-box;
-} */
+    opacity: 1;
+    height: 100vh;
+}

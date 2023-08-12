@@ -1,0 +1,16 @@
+.leads-container {
+    width: 100%;
+}
+.leadshead {
+    display: flex;
+    justify-content: space-between;
+}
+/* table {
+    width: 100%;
+}
+td, tr,th {
+    border: 1px solid black;
+}
+tr {
+    color: azure;
+} */
